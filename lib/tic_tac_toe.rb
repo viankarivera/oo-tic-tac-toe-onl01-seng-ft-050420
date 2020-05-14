@@ -43,7 +43,8 @@ class TicTacToe
     @board.each do |space|
       if space == "X" || space =="0"
         number_of_turns += 1
-      end 
+      end
+    end 
 
   end
 
