@@ -44,7 +44,8 @@ class TicTacToe
       if space == "X" || space =="0"
         number_of_turns += 1
       end
-    end 
+    end
+    return number_of_turns
 
   end
 
