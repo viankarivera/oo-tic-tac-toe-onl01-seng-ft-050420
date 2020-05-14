@@ -109,7 +109,7 @@ def over?
   else
     return false
   end
-end 
+end
 
 def winner
   index = []
