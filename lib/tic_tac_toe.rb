@@ -69,7 +69,7 @@ def turn
   else
     turn
   end
-end 
+end
 
 def won?
   WIN_COMBINATIONS.each {
